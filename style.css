@@ -3,3 +3,10 @@
     font-weight: bold;
     float: right;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 70px;
+    height: 40px;
+}
